@@ -1,0 +1,13 @@
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\bin\Debug\Optimisation.exe.config
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\bin\Debug\Optimisation.exe
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\bin\Debug\Optimisation.pdb
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.csprojAssemblyReference.cache
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Interop.LCC11.dll
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.csproj.ResolveComReference.cache
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.Form1.resources
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.Properties.Resources.resources
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.csproj.GenerateResource.cache
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.csproj.CoreCompileInputs.cache
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.exe
+C:\Users\DERTman\Desktop\Optimisation\Optimisation\Optimisation\obj\Debug\Optimisation.pdb
